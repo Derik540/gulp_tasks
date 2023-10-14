@@ -1,0 +1,16 @@
+@use "vars";
+
+body {
+  font-family: vars.$fontPrincipal;
+
+  img {
+    width: vars.$imgSize;
+    border-radius: vars.$imgBorder;
+  }
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}

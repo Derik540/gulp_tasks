@@ -1,0 +1,11 @@
+    # Usando gulpfile.js: O Gulp está usando o arquivo gulpfile.js no diretório especificado para saber quais tarefas executar.
+
+#Tarefa ‘build’: Esta tarefa é usada para construir o projeto (gulp build).
+#Tarefa ‘miniFy’: Esta tarefa é usada para minificar arquivos, reduzindo seu tamanho ao remover espaços em branco, comentários e outros.
+#Tarefa ‘compileSass’: Esta tarefa é usada para compilar arquivos Sass em CSS.
+#Tarefa ‘minifyJs’: Esta tarefa é usada para minificar arquivos JavaScript.
+#Tarefa ‘watchImagens’: Esta tarefa é usada para monitorar mudanças em arquivos de imagem.
+#Tarefa ‘watchFile’: Esta tarefa é usada para monitorar mudanças em arquivos específicos.
+#Tarefa ‘watchJs’: Esta tarefa é usada para monitorar mudanças em arquivos JavaScript.
+#Plugin gulp-imagemin: Este plugin é usado para minificar imagens. Se ele retorna que nenhuma imagem foi minificada.
+

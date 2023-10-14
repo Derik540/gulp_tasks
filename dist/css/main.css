@@ -1,0 +1,13 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+body img {
+  width: 454px;
+  border-radius: 10px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
